@@ -6,8 +6,8 @@ import time
 MY_LAT = 51.507351 # Your latitude
 MY_LONG = -0.127758 # Your longitude
 
-my_email = "anchi.marun16@gmail.com"
-password = "fonarkfspgdgfhdw"
+my_email = "EMAIL"
+password = "PASSWORD"
 
 
 def is_iss_overhead():
